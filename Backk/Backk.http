@@ -1,0 +1,6 @@
+@Backk_HostAddress = http://localhost:5285
+
+GET {{Backk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
